@@ -1,0 +1,389 @@
+1.
+Domain Name: BLIZZARD.COM
+Registry Domain ID: 2180864_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.networksolutions.com
+Registrar URL: http://networksolutions.com
+Updated Date: 2021-09-14T21:17:30Z
+Creation Date: 1994-12-09T05:00:00Z
+Registrar Registration Expiration Date: 2030-12-08T05:00:00Z
+Registrar: Network Solutions, LLC
+Registrar IANA ID: 2
+Reseller: 
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 
+Registrant Name: PERFECT PRIVACY, LLC
+Registrant Organization: 
+Registrant Street: 5335 Gate Parkway care of Network Solutions PO Box 459
+Registrant City: Jacksonville
+Registrant State/Province: FL
+Registrant Postal Code: 32256
+Registrant Country: US
+Registrant Phone: +1.5707088780
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: 
+Registry Admin ID: 
+Admin Name: PERFECT PRIVACY, LLC
+Admin Organization: 
+Admin Street: 5335 Gate Parkway care of Network Solutions PO Box 459
+Admin City: Jacksonville
+Admin State/Province: FL
+Admin Postal Code: 32256
+Admin Country: US
+Admin Phone: +1.5707088780
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: 
+Registry Tech ID: 
+Tech Name: PERFECT PRIVACY, LLC
+Tech Organization: 
+Tech Street: 5335 Gate Parkway care of Network Solutions PO Box 459
+Tech City: Jacksonville
+Tech State/Province: FL
+Tech Postal Code: 32256
+Tech Country: US
+Tech Phone: +1.5707088780
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: 
+Name Server: NS-WEST.CERF.NET
+Name Server: NS-EAST.CERF.NET
+DNSSEC: unsigned
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: +1.8777228662
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+
+https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en.
+
+
+
+2.
+Domain Name: leagueoflegends.com
+Registry Domain ID: 
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2021-08-24T09:25:14+00:00
+        2021-08-24
+Creation Date: 2007-09-25T13:05:04+00:00
+        2007-09-25
+Registrar Registration Expiration Date: 2022-09-25T07:00:00+00:00
+        2022-09-25
+Registrar: MarkMonitor, Inc.
+        MarkMonitor Inc.
+Sponsoring Registrar IANA ID: 292
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 12083895770
+Status: 
+        clientDeleteProhibited
+        clientTransferProhibited
+        clientUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: REDACTED FOR PRIVACY (DT)
+Registrant Organization: Riot Games, Inc.
+Registrant Street: 12333 W Olympic Blvd.,
+Registrant City: Los Angeles
+Registrant State/Province: CA
+Registrant Postal Code: 90064
+Registrant Country: us
+Registrant Phone: 13103377468
+Registrant Phone Ext: 
+Registrant Fax: 13103371462
+Registrant Fax Ext: 
+Registrant Email: 
+Registry Admin ID: 
+Admin Name: REDACTED FOR PRIVACY (DT)
+Admin Organization: Riot Games, Inc.
+Admin Street: 12333 W Olympic Blvd.,
+Admin City: Los Angeles
+Admin State/Province: CA
+Admin Postal Code: 90064
+Admin Country: us
+Admin Phone: REDACTED FOR PRIVACY (DT)
+Admin Phone Ext: 
+Admin Fax: REDACTED FOR PRIVACY (DT)
+Admin Fax Ext: 
+Admin Email: 
+Registry Tech ID: 
+Tech Name: REDACTED FOR PRIVACY (DT)
+Tech Organization: Riot Games, Inc.
+Tech Street: 12333 W Olympic Blvd.,
+Tech City: Los Angeles
+Tech State/Province: CA
+Tech Postal Code: 90064
+Tech Country: us
+Tech Phone: REDACTED FOR PRIVACY (DT)
+Tech Phone Ext: 
+Tech Fax: REDACTED FOR PRIVACY (DT)
+Tech Fax Ext: 
+Tech Email: 
+Registry Billing ID: 
+Billing Name: 
+Billing Organization: 
+Billing Street: 
+Billing City: 
+Billing State/Province: 
+Billing Postal Code: 
+Billing Country: 
+Billing Phone: 
+Billing Phone Ext: 
+Billing Fax: 
+Billing Fax Ext: 
+Billing Email: 
+Nameservers: 
+        ns-1095.awsdns-08.org
+        ns-1809.awsdns-34.co.uk
+        ns-212.awsdns-26.com
+        ns-981.awsdns-58.net
+Registry ID: 1238657100_DOMAIN_COM-VRSN
+DNSSEC: unsigned
+
+
+3.
+Domain Name: amazon.ca
+Registry Domain ID: D237-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: Markmonitor.com
+Updated Date: 2021-07-16T04:00:08Z
+Creation Date: 2000-09-19T18:44:39Z
+Registry Expiry Date: 2024-07-16T04:00:00Z
+Registrar: MarkMonitor International Canada Ltd.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 16390820-CIRA
+Registrant Name: Amazon Technologies, Inc. TMA499121
+Registrant Organization:
+Registrant Street: PO Box 8102
+Registrant City: Reno
+Registrant State/Province: NV
+Registrant Postal Code: 91423
+Registrant Country: US
+Registrant Phone: +1.2062664064
+Registrant Phone Ext:
+Registrant Fax: +1.2062667010
+Registrant Fax Ext:
+Registrant Email: 
+Registry Admin ID: 16310044-CIRA
+Admin Name: David C Arnett
+Admin Organization: Amazon Technologies, Inc. TMA499121
+Admin Street: PO Box 8102
+Admin City: Reno
+Admin State/Province: NV
+Admin Postal Code: 91423
+Admin Country: US
+Admin Phone: +1.2062664064
+Admin Phone Ext:
+Admin Fax: +1.2062667010
+Admin Fax Ext:
+Admin Email: 
+Registry Tech ID: 16310044-CIRA
+Tech Name: David C Arnett
+Tech Organization: Amazon Technologies, Inc. TMA499121
+Tech Street: PO Box 8102
+Tech City: Reno
+Tech State/Province: NV
+Tech Postal Code: 91423
+Tech Country: US
+Tech Phone: +1.2062664064
+Tech Phone Ext:
+Tech Fax: +1.2062667010
+Tech Fax Ext:
+Tech Email: 
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.p31.dynect.net
+Name Server: ns2.p31.dynect.net
+Name Server: pdns1.ultradns.net
+Name Server: pdns3.ultradns.org
+Name Server: pdns4.ultradns.org
+Name Server: pdns5.ultradns.info
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+
+4.
+
+Domain Name: netflix.com
+Registry Domain ID: 
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2021-10-09T09:37:28+00:00
+Creation Date: 1997-11-11T05:00:00+00:00
+Registrar Registration Expiration Date: 2023-11-10T00:00:00+00:00
+Registrar: MarkMonitor, Inc.
+        MarkMonitor Inc.
+Sponsoring Registrar IANA ID: 292
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 12083895770
+Status: 
+        clientDeleteProhibited
+        clientTransferProhibited
+        clientUpdateProhibited
+        serverDeleteProhibited
+        serverTransferProhibited
+        serverUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: REDACTED FOR PRIVACY (DT)
+Registrant Organization: Netflix, Inc.
+Registrant Street: 100 Winchester Circle,
+Registrant City: Los Gatos
+Registrant State/Province: CA
+Registrant Postal Code: 95032
+Registrant Country: us
+Registrant Phone: 14085403700
+Registrant Phone Ext: 
+Registrant Fax: 14085403737
+Registrant Fax Ext: 
+Registrant Email: REDACTED FOR PRIVACY (DT)
+Registry Admin ID: 
+Admin Name: REDACTED FOR PRIVACY (DT)
+Admin Organization: Netflix, Inc.
+Admin Street: 100 Winchester Circle,
+Admin City: Los Gatos
+Admin State/Province: CA
+Admin Postal Code: 95032
+Admin Country: us
+Admin Phone: REDACTED FOR PRIVACY (DT)
+Admin Phone Ext: 
+Admin Fax: REDACTED FOR PRIVACY (DT)
+Admin Fax Ext: 
+Admin Email: REDACTED FOR PRIVACY (DT)
+Registry Tech ID: 
+Tech Name: REDACTED FOR PRIVACY (DT)
+Tech Organization: Netflix, Inc.
+Tech Street: 100 Winchester Circle,
+Tech City: Los Gatos
+Tech State/Province: CA
+Tech Postal Code: 95032
+Tech Country: us
+Tech Phone: REDACTED FOR PRIVACY (DT)
+Tech Phone Ext: 
+Tech Fax: REDACTED FOR PRIVACY (DT)
+Tech Fax Ext: 
+Tech Email: REDACTED FOR PRIVACY (DT)
+Registry Billing ID: 
+Billing Name: 
+Billing Organization: 
+Billing Street: 
+Billing City: 
+Billing State/Province: 
+Billing Postal Code: 
+Billing Country: 
+Billing Phone: 
+Billing Phone Ext: 
+Billing Fax: 
+Billing Fax Ext: 
+Billing Email: 
+Nameservers: 
+        ns-1372.awsdns-43.org
+        ns-1984.awsdns-56.co.uk
+        ns-659.awsdns-18.net
+        ns-81.awsdns-10.com
+Registry ID: 1404215_DOMAIN_COM-VRSN
+DNSSEC: unsigned
+
+
+
+5.
+Domain Name: youtube.com
+Registry Domain ID: 142504053_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2022-01-14T09:38:42+00:00
+        2022-01-14
+Creation Date: 2005-02-15T05:13:12+00:00
+        2005-02-15
+Registrar Registration Expiration Date: 2023-02-15T00:00:00+00:00
+        2023-02-15
+Registrar: MarkMonitor, Inc.
+        MarkMonitor Inc.
+Sponsoring Registrar IANA ID: 292
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 12083895770
+Status: 
+        clientDeleteProhibited
+        clientTransferProhibited
+        clientUpdateProhibited
+        serverDeleteProhibited
+        serverTransferProhibited
+        serverUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: 
+Registrant Organization: Google LLC
+Registrant Street: 
+Registrant City: 
+Registrant State/Province: CA
+Registrant Postal Code: 
+Registrant Country: us
+Registrant Phone: 
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: REDACTED FOR PRIVACY (DT)
+Registry Admin ID: 
+Admin Name: 
+Admin Organization: Google LLC
+Admin Street: 
+Admin City: 
+Admin State/Province: CA
+Admin Postal Code: 
+Admin Country: us
+Admin Phone: 
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: REDACTED FOR PRIVACY (DT)
+Registry Tech ID: 
+Tech Name: 
+Tech Organization: Google LLC
+Tech Street: 
+Tech City: 
+Tech State/Province: CA
+Tech Postal Code: 
+Tech Country: us
+Tech Phone: 
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: REDACTED FOR PRIVACY (DT)
+Registry Billing ID: 
+Billing Name: 
+Billing Organization: 
+Billing Street: 
+Billing City: 
+Billing State/Province: 
+Billing Postal Code: 
+Billing Country: 
+Billing Phone: 
+Billing Phone Ext: 
+Billing Fax: 
+Billing Fax Ext: 
+Billing Email: 
+Nameservers: 
+        ns1.google.com
+        ns2.google.com
+        ns3.google.com
+        ns4.google.com
+DNSSEC: unsigned

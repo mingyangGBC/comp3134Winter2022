@@ -1,0 +1,56 @@
+1.
+Domain Name: online.swiftplayground.run
+
+Top Level Domain: RUN
+
+DNS Lookup
+
+IP Address: 185.223.132.73
+
+Geolocation: NL (Netherlands), N/A, N/A, N/A N/A
+
+2.
+Domain Name: app.usertesting.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 151.101.210.49
+
+Geolocation: US (United States), NJ, New Jersey, 07175 Newark
+
+3.
+Domain Name: pathofexile.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 104.19.186.16
+
+Geolocation: US (United States), N/A, N/A, N/A N/A
+
+
+4.
+Domain Name: poe.ninja
+
+Top Level Domain: NINJA (Persons with with special expertise or skills)
+
+DNS Lookup
+
+IP Address: 172.67.71.54
+
+Geolocation: US (United States), CA, California, 94107 San Francisco
+
+
+5.
+Domain Name: pixiv.net
+
+Top Level Domain: NET (Generic TLD for IT / Network oriented sites)
+
+DNS Lookup
+
+IP Address: 210.140.92.183
+
+Geolocation: JP (Japan), N/A, N/A, N/A N/A
