@@ -1,0 +1,36 @@
+14:11:29.523296 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-vprn-toroon474aw-lp130-03-174-88-148-250.dsl.bell.ca.55624: Flags [P.], seq 8914832:8915260, ack 5653, win 501, length 428
+        0x0000:  fe00 0000 0101 9676 2e01 3ee3 0800 4510  .......v..>...E.
+        0x0010:  01d4 08a7 4000 4006 3a9a 9fcb 12b5 ae58  ....@.@.:......X
+        0x0020:  94fa 0016 d948 aa01 8a3a a00d 5674 5018  .....H...:..VtP.
+        0x0030:  01f5 f799 0000 8e51 54ad 89cb 6314 0cb2  .......QT...c...
+        0x0040:  4231 e53e c1e6 7e5c 12b5 4a3c 076f 291a  B1.>..~\..J<.o).
+        0x0050:  b934 5b93 b61f dee0 b7f6 c547 3d45 4dc8  .4[........G=EM.
+        0x0060:  8147 2a2d 50ad 0c19 c8b1 8393 20f9 60c4  .G*-P.........`.
+        0x0070:  1a98 64b7 e4ec 5595 0783 8a75 d6d4 f034  ..d...U....u...4
+        0x0080:  c96b b005 9aca 90e3 7863 9eef d94d b7cb  .k......xc...M..
+        0x0090:  d636 71cd 1422 2235 d755 c383 497f 3917  .6q..""5.U..I.9.
+        0x00a0:  f4d3 31f0 867d 5a04 9a45 f21b 7717 0ae5  ..1..}Z..E..w...
+        0x00b0:  7555 2e23 70a9 6bfc 5aea c0f9 366b 3ea3  uU.#p.k.Z...6k>.
+        0x00c0:  7db4 705c 4cb8 39e9 4e06 d06e fcdd a3f2  }.p\L.9.N..n....
+        0x00d0:  f7bb a16c 573f 8909 52e4 1319 263a c16a  ...lW?..R...&:.j
+        0x00e0:  6da9 8172 ec4b aa43 51a5 582c 7abb 9ca9  m..r.K.CQ.X,z...
+        0x00f0:  5776 0614 3610 d669 324c d87d 4692 b22b  Wv..6..i2L.}F..+
+        0x0100:  7a36 7ae5 fe13 737a 6ced 1985 57e3 572b  z6z...szl...W.W+
+        0x0110:  5ef3 ce43 0b07 447c 92f5 03e4 70ba 9dad  ^..C..D|....p...
+        0x0120:  f2c7 7c32 f6df aac4 d4a4 8031 8125 4fe0  ..|2.......1.%O.
+        0x0130:  44ee 2868 48cb 709b 92b3 3863 ceac 7f8d  D.(hH.p...8c....
+        0x0140:  deeb a0ce eca0 b298 9dc3 e34e 4c78 55b1  ...........NLxU.
+        0x0150:  92d5 5807 aa3b c700 a8c2 b702 b02a 34e5  ..X..;.......*4.
+        0x0160:  fb34 5910 ebc3 5c97 5a7a 5b3c 3f49 d4f7  .4Y...\.Zz[<?I..
+^C      0x0170:  9fa2 0b80 d3cf d1ca 208f 16ec bae7 3376  ..............3v
+        0x0180:  a1ad 9e39 eea7 6ea1 0099 0cc1 9f6a 0be6  ...9..n......j..
+        0x0190:  a050 d077 de4e bcba 5313 c6dc 797f dada  .P.w.N..S...y...
+        0x01a0:  4e99 9d63 bdb1 fa31 3676 99a7 be10 b154  N..c...16v.....T
+        0x01b0:  12ac 9aa4 fafb 1d82 f94c 27d3 d65e fe94  .........L'..^..
+        0x01c0:  b05b 0362 bbd4 aeba cb7f d0a5 7408 9e28  .[.b........t..(
+        0x01d0:  2f42 ae53 9c00 4097 1977 6ecc 5720 5144  /B.S..@..wn.W.QD
+        0x01e0:  8274                                     .t
+
+2823 packets captured
+33467 packets received by filter
+30613 packets dropped by kernel

@@ -1,0 +1,16 @@
+14:15:51.650408 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-vprn-toroon474aw-lp130-03-174-88-148-250.dsl.bell.ca.55624: Flags [P.], seq 6025804:6026024, ack 3853, win 501, length 220
+14:15:51.650607 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-vprn-toroon474aw-lp130-03-174-88-148-250.dsl.bell.ca.55624: Flags [P.], seq 6026024:6026244, ack 3853, win 501, length 220
+14:15:51.650815 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-vprn-toroon474aw-lp130-03-174-88-148-250.dsl.bell.ca.55624: Flags [P.], seq 6026244:6026464, ack 3853, win 501, length 220
+14:15:51.650987 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-vprn-toroon474aw-lp130-03-174-88-148-250.dsl.bell.ca.55624: Flags [P.], seq 6026464:6026684, ack 3853, win 501, length 220
+14:15:51.651147 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-vprn-toroon474aw-lp130-03-174-88-148-250.dsl.bell.ca.55624: Flags [P.], seq 6026684:6026904, ack 3853, win 501, length 220
+14:15:51.651341 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-vprn-toroon474aw-lp130-03-174-88-148-250.dsl.bell.ca.55624: Flags [P.], seq 6026904:6027124, ack 3853, win 501, length 220
+14:15:51.651530 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-vprn-toroon474aw-lp130-03-174-88-148-250.dsl.bell.ca.55624: Flags [P.], seq 6027124:6027344, ack 3853, win 501, length 220
+14:15:51.651741 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-vprn-toroon474aw-lp130-03-174-88-148-250.dsl.bell.ca.55624: Flags [P.], seq 6027344:6027564, ack 3853, win 501, length 220
+14:15:51.651898 IP bras-vprn-toroon474aw-lp130-03-174-88-148-250.dsl.bell.ca.55624 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 6023876, win 1026, length 0
+14:15:51.651898 IP bras-vprn-toroon474aw-lp130-03-174-88-148-250.dsl.bell.ca.55624 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 6025144, win 1021, length 0
+14:15:51.652092 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-vprn-toroon474aw-lp130-03-174-88-148-250.dsl.bell.ca.55624: Flags [P.], seq 6027564:6028120, ack 3853, win 501, length 556
+14:15:51.652156 IP bras-vprn-toroon474aw-lp130-03-174-88-148-250.dsl.bell.ca.55624 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [P.], seq 3853:3889, ack 6025144, win 1021, length 36
+^C
+29655 packets captured
+29656 packets received by filter
+0 packets dropped by kernel
