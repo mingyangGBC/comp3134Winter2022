@@ -1,0 +1,64 @@
+Capture HTTP command:
+tcpdump -i any -c5 -nn port 80
+
+Result:
+
+
+13:49:31.937247 IP 174.88.148.250.62610 > 159.203.18.181.80: Flags [S], seq 1649368570, win 64240, options [mss 1452,nop,wscale 8,nop,nop,sackOK], length 0
+13:49:31.937352 IP 159.203.18.181.80 > 174.88.148.250.62610: Flags [S.], seq 3590323969, ack 1649368571, win 64240, options [mss 1460,nop,nop,sackOK,nop,wscale 7], length 0
+13:49:31.940171 IP 174.88.148.250.62610 > 159.203.18.181.80: Flags [.], ack 1, win 1026, length 0
+13:49:31.960761 IP 174.88.148.250.62610 > 159.203.18.181.80: Flags [P.], seq 1:7, ack 1, win 1026, length 6: HTTP
+13:49:31.960873 IP 159.203.18.181.80 > 174.88.148.250.62610: Flags [.], ack 7, win 502, length 0
+13:50:44.963724 IP 174.88.148.250.62618 > 159.203.18.181.80: Flags [S], seq 1804322038, win 64240, options [mss 1452,nop,wscale 8,nop,nop,sackOK], length 0
+13:50:44.963861 IP 159.203.18.181.80 > 174.88.148.250.62618: Flags [S.], seq 1891829767, ack 1804322039, win 64240, options [mss 1460,nop,nop,sackOK,nop,wscale 7], length 0
+13:50:44.966601 IP 174.88.148.250.62618 > 159.203.18.181.80: Flags [.], ack 1, win 1026, length 0
+13:50:44.978015 IP 174.88.148.250.62618 > 159.203.18.181.80: Flags [P.], seq 1:22, ack 1, win 1026, length 21: HTTP
+13:50:44.978093 IP 159.203.18.181.80 > 174.88.148.250.62618: Flags [.], ack 22, win 502, length 0
+13:50:44.963724 IP 174.88.148.250.62618 > 159.203.18.181.80: Flags [S], seq 1804322038, win 64240, options [mss 1452,nop,wscale 8,nop,nop,sackOK], length 0
+13:50:44.963861 IP 159.203.18.181.80 > 174.88.148.250.62618: Flags [S.], seq 1891829767, ack 1804322039, win 64240, options [mss 1460,nop,nop,sackOK,nop,wscale 7], length 0
+13:50:44.966601 IP 174.88.148.250.62618 > 159.203.18.181.80: Flags [.], ack 1, win 1026, length 0
+13:50:44.978015 IP 174.88.148.250.62618 > 159.203.18.181.80: Flags [P.], seq 1:22, ack 1, win 1026, length 23: HTTP
+13:50:44.978093 IP 159.203.18.181.80 > 174.88.148.250.62618: Flags [.], ack 22, win 502, length 0
+13:50:44.963724 IP 174.88.148.250.62618 > 159.203.18.181.80: Flags [S], seq 1804322038, win 64240, options [mss 1452,nop,wscale 8,nop,nop,sackOK], length 0
+13:50:44.963861 IP 159.203.18.181.80 > 174.88.148.250.62618: Flags [S.], seq 1891829767, ack 1804322039, win 64240, options [mss 1460,nop,nop,sackOK,nop,wscale 7], length 0
+13:50:44.966601 IP 174.88.148.250.62618 > 159.203.18.181.80: Flags [.], ack 1, win 1026, length 0
+13:50:44.978015 IP 174.88.148.250.62618 > 159.203.18.181.80: Flags [P.], seq 1:22, ack 1, win 1026, length 27: HTTP
+13:50:44.978093 IP 159.203.18.181.80 > 174.88.148.250.62618: Flags [.], ack 22, win 502, length 0
+13:50:44.963724 IP 174.88.148.250.62618 > 159.203.18.181.80: Flags [S], seq 1804322038, win 64240, options [mss 1452,nop,wscale 8,nop,nop,sackOK], length 0
+13:50:44.963861 IP 159.203.18.181.80 > 174.88.148.250.62618: Flags [S.], seq 1891829767, ack 1804322039, win 64240, options [mss 1460,nop,nop,sackOK,nop,wscale 7], length 0
+13:50:44.966601 IP 174.88.148.250.62618 > 159.203.18.181.80: Flags [.], ack 1, win 1026, length 0
+13:50:44.978015 IP 174.88.148.250.62618 > 159.203.18.181.80: Flags [P.], seq 1:22, ack 1, win 1026, length 31: HTTP
+13:50:44.978093 IP 159.203.18.181.80 > 174.88.148.250.62618: Flags [.], ack 22, win 502, length 0
+13:50:44.963724 IP 174.88.148.250.62618 > 159.203.18.181.80: Flags [S], seq 1804322038, win 64240, options [mss 1452,nop,wscale 8,nop,nop,sackOK], length 0
+13:50:44.963861 IP 159.203.18.181.80 > 174.88.148.250.62618: Flags [S.], seq 1891829767, ack 1804322039, win 64240, options [mss 1460,nop,nop,sackOK,nop,wscale 7], length 0
+13:50:44.966601 IP 174.88.148.250.62618 > 159.203.18.181.80: Flags [.], ack 1, win 1026, length 0
+13:50:44.978015 IP 174.88.148.250.62618 > 159.203.18.181.80: Flags [P.], seq 1:22, ack 1, win 1026, length 14: HTTP
+13:50:44.978093 IP 159.203.18.181.80 > 174.88.148.250.62618: Flags [.], ack 22, win 502, length 0
+13:50:44.963724 IP 174.88.148.250.62618 > 159.203.18.181.80: Flags [S], seq 1804322038, win 64240, options [mss 1452,nop,wscale 8,nop,nop,sackOK], length 0
+13:50:44.963861 IP 159.203.18.181.80 > 174.88.148.250.62618: Flags [S.], seq 1891829767, ack 1804322039, win 64240, options [mss 1460,nop,nop,sackOK,nop,wscale 7], length 0
+13:50:44.966601 IP 174.88.148.250.62618 > 159.203.18.181.80: Flags [.], ack 1, win 1026, length 0
+13:50:44.978015 IP 174.88.148.250.62618 > 159.203.18.181.80: Flags [P.], seq 1:22, ack 1, win 1026, length 58: HTTP
+13:50:44.978093 IP 159.203.18.181.80 > 174.88.148.250.62618: Flags [.], ack 22, win 502, length 0
+13:50:44.963724 IP 174.88.148.250.62618 > 159.203.18.181.80: Flags [S], seq 1804322038, win 64240, options [mss 1452,nop,wscale 8,nop,nop,sackOK], length 0
+13:50:44.963861 IP 159.203.18.181.80 > 174.88.148.250.62618: Flags [S.], seq 1891829767, ack 1804322039, win 64240, options [mss 1460,nop,nop,sackOK,nop,wscale 7], length 0
+13:50:44.966601 IP 174.88.148.250.62618 > 159.203.18.181.80: Flags [.], ack 1, win 1026, length 0
+13:50:44.978015 IP 174.88.148.250.62618 > 159.203.18.181.80: Flags [P.], seq 1:22, ack 1, win 1026, length17: HTTP
+13:50:44.978093 IP 159.203.18.181.80 > 174.88.148.250.62618: Flags [.], ack 22, win 502, length 0
+13:50:44.963724 IP 174.88.148.250.62618 > 159.203.18.181.80: Flags [S], seq 1804322038, win 64240, options [mss 1452,nop,wscale 8,nop,nop,sackOK], length 0
+13:50:44.963861 IP 159.203.18.181.80 > 174.88.148.250.62618: Flags [S.], seq 1891829767, ack 1804322039, win 64240, options [mss 1460,nop,nop,sackOK,nop,wscale 7], length 0
+13:50:44.966601 IP 174.88.148.250.62618 > 159.203.18.181.80: Flags [.], ack 1, win 1026, length 0
+13:50:44.978015 IP 174.88.148.250.62618 > 159.203.18.181.80: Flags [P.], seq 1:22, ack 1, win 1026, length 12: HTTP
+13:50:44.978093 IP 159.203.18.181.80 > 174.88.148.250.62618: Flags [.], ack 22, win 502, length 0
+13:50:44.963724 IP 174.88.148.250.62618 > 159.203.18.181.80: Flags [S], seq 1804322038, win 64240, options [mss 1452,nop,wscale 8,nop,nop,sackOK], length 0
+13:50:44.963861 IP 159.203.18.181.80 > 174.88.148.250.62618: Flags [S.], seq 1891829767, ack 1804322039, win 64240, options [mss 1460,nop,nop,sackOK,nop,wscale 7], length 0
+13:50:44.966601 IP 174.88.148.250.62618 > 159.203.18.181.80: Flags [.], ack 1, win 1026, length 0
+13:50:44.978015 IP 174.88.148.250.62618 > 159.203.18.181.80: Flags [P.], seq 1:22, ack 1, win 1026, length 19: HTTP
+13:50:44.978093 IP 159.203.18.181.80 > 174.88.148.250.62618: Flags [.], ack 22, win 502, length 0
+
+
+
+
+Source Host: 174.88.148.250
+Source Port: 62618
+Destination Host: 159.203.18.181
+Destination Port: 80
